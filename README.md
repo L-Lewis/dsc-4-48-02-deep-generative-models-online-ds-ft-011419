@@ -9,7 +9,7 @@ The world we live in is made up of rich 3D environments, containing interactive 
 You will be able to:
 - Understand the difference between discriminative and generative modeling techniques
 - Describe the key research and development areas for deep generative models
-- PRovide real world examples of deep generative models for image/audio/text generation
+- Provide real world examples of deep generative models for image/audio/text generation
 
 ## What are Generative Models ?
 
